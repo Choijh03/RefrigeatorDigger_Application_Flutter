@@ -4,13 +4,13 @@ This is first version of Refrigerator Digger Android Application built on Flutte
 
 ------------------------------------------------------------------------------------------------------------
 
-Currently, code is saved on private github repo as this is still on-going project.
+Currently, code is saved on private GitHub repo as this is still on-going project.
 
-This app is to help people organize the list of grocery, freezer, refrigerator,and recipe.
+This app is to help people organize the list of grocery, freezer, refrigerator, and recipe.
 
 This app can be found on google store: RefrigeDigger.
 
-Google store link: currently processing
+Google store link: currently processing.
 
 ------------------------------------------------------------------------------------------------------------
 Available Functionalities:
@@ -21,7 +21,7 @@ Available Functionalities:
 
 -User can use check box and it puts line through the item when check box is clicked.
 
--User can slide tile from right to left and click trash bin icon to delte the item.
+-User can slide tile from right to left and click trash bin icon to delete the item.
 
 -Help button is at the top right corner to guide user learn how to use the app properly.
 
@@ -31,17 +31,17 @@ Available Functionalities:
 
 -User can use check box and it puts line through the item when check box is clicked.
 
--User can slide tile from right to left and click trash bin icon to delte the item.
+-User can slide tile from right to left and click trash bin icon to delete the item.
 
 -Help button is at the top right corner to guide user learn how to use the app properly.
 
-3) Refrigeraotr list:
+3) Refrigerator list:
 
 -User can click plus button to add the item in Refrigerator list with date (MM/DD/YYYY).
 
 -User can use check box and it puts line through the item when check box is clicked.
 
--User can slide tile from right to left and click trash bin icon to delte the item.
+-User can slide tile from right to left and click trash bin icon to delete the item.
 
 -Help button is at the top right corner to guide user learn how to use the app properly.
 
@@ -51,11 +51,11 @@ Available Functionalities:
 
 -If item is available either from freezer or refrigerator, check box will be checked.
 
--User can slide tile from right to left and click trash bin icon to delte the item.
+-User can slide tile from right to left and click trash bin icon to delete the item.
 
--If item is not available neither from freezer or refrigerator, check box will be un-checked.
+-If item is not available either from freezer or refrigerator, check box will be un-checked.
 
--When new item is added or an item got deleted in freezer or refrigerator list, user can click refresh button on the top right corener to update the current available ingredients with recipes.
+-When new item is added or an item got deleted in freezer or refrigerator list, user can click refresh button on the top right corner to update the current available ingredients with recipes.
 
 -Help button is at the top right corner to guide user learn how to use the app properly.
 
