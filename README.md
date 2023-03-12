@@ -1,6 +1,6 @@
 # RefrigeatorDigger_Application_Flutter
 
-This is first version of Refrigeraotr Digger Android Application built on Flutter 3.7 during Spring 2023 (Feburary ~ March) -Dart
+This is first version of Refrigerator Digger Android Application built on Flutter 3.7 during Spring 2023 (February ~ March) -Dart
 
 ------------------------------------------------------------------------------------------------------------
 
