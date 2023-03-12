@@ -91,9 +91,16 @@ Available Functionalities:
 
 ![5](https://user-images.githubusercontent.com/98497929/224535200-eb70a3a9-65b1-4e8e-ad3f-adc6c0f11268.PNG)
 
+![10](https://user-images.githubusercontent.com/98497929/224535309-126ca785-3bcd-4233-977d-a5ff3789cdb4.PNG)
+
+![11](https://user-images.githubusercontent.com/98497929/224535322-7eab5d43-1f9c-43f5-ab3b-38c686da12dd.PNG)
+
 - Roulette Wheel Screen:
 
 ![8](https://user-images.githubusercontent.com/98497929/224535208-bcbfc693-fbd2-41b7-8fb8-c7944393312d.PNG)
+
+![9](https://user-images.githubusercontent.com/98497929/224535296-68580196-62d0-4fe2-a5b5-67b0c1605995.PNG)
+
 
 
 
