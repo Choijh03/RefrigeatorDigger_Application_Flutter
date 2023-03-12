@@ -85,9 +85,15 @@ Available Functionalities:
 
 ![6](https://user-images.githubusercontent.com/98497929/224535040-e6a557cb-ba0d-4b29-aa81-eb5e585b4688.PNG)
 
+![5](https://user-images.githubusercontent.com/98497929/224535197-e0ed8b50-3f1c-49f4-905d-919543c981d0.PNG)
 
 - Recipe Screen:
 
+![5](https://user-images.githubusercontent.com/98497929/224535200-eb70a3a9-65b1-4e8e-ad3f-adc6c0f11268.PNG)
+
 - Roulette Wheel Screen:
+
+![8](https://user-images.githubusercontent.com/98497929/224535208-bcbfc693-fbd2-41b7-8fb8-c7944393312d.PNG)
+
 
 
