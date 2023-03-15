@@ -10,7 +10,7 @@ This app is to help people organize the list of grocery, freezer, refrigerator, 
 
 This app can be found on google store: RefrigeDigger.
 
-Google store link: currently processing.
+Google store link: https://play.google.com/store/apps/details?id=com.hir.refrigedig
 
 ------------------------------------------------------------------------------------------------------------
 Available Functionalities:
